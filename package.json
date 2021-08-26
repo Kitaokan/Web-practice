@@ -1,0 +1,23 @@
+{
+  "name": "buz-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narumincho/buz-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narumincho/buz-sample/issues"
+  },
+  "homepage": "https://github.com/narumincho/buz-sample#readme",
+  "dependencies": {
+    "parcel": "^2.0.0-rc.0"
+  }
+}
