@@ -1,1 +1,1 @@
-# buz-sample
+# Webの勉強
